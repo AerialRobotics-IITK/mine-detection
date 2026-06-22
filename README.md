@@ -1,6 +1,6 @@
 # mine-detection
 
-**Mine-detection** is a custom ROS 2 pipeline designed for autonomous landmine detection using an Unmanned Aerial Vehicle (UAV). It utilizes a Software Defined Radio - PlutoSDR, acting as a Vector Network Analyzer (VNA) to transmit and receive radio frequencies. The system processes the received complex IQ data in real-time to detect anomalies in the soil dielectric properties and fuses these detections with the drone's odometry to accurately log the physical locations of detected mines. 
+**Mine-detection** is a custom ROS 2 pipeline designed for autonomous landmine detection using an Unmanned Aerial Vehicle (UAV). It utilizes a Software Defined Radio - PlutoSDR, acting as a Vector Network Analyzer (VNA) to transmit and receive radio frequencies. The system processes the received complex IQ data in real-time to detect anomalies in the soil dielectric properties and fuses these detections with the drone's odometry to accurately log the physical locations of detected mines 
 
 <p align="center">
   <img src="media_files/log_periodic_antennas_on_laptop.jpeg" width = "400" height = "300"/>
